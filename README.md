@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm SauloGP</h1>
 <h3 align="center">A backend developer from Brazil :brazil:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/saulo-godoy-proetti-152bab158" target="blank">![icons8-linkedin-64](https://user-images.githubusercontent.com/38708863/181388691-4e1b9c0f-7ae2-4516-a0d1-6294d9d3baf7.png)</a>
-<a href="https://www.instagram.com/sauloproetti/" target="blank">![icons8-instagram-64](https://user-images.githubusercontent.com/38708863/181388890-9cb79c7d-8ee9-4bcc-9614-3be7eb983dd0.png)
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="40" height="40"/> </a>
@@ -27,3 +19,11 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/saulo-godoy-proetti-152bab158" target="blank">![icons8-linkedin-64](https://user-images.githubusercontent.com/38708863/181388691-4e1b9c0f-7ae2-4516-a0d1-6294d9d3baf7.png)</a>
+<a href="https://www.instagram.com/sauloproetti/" target="blank">![icons8-instagram-64](https://user-images.githubusercontent.com/38708863/181388890-9cb79c7d-8ee9-4bcc-9614-3be7eb983dd0.png)
+</a>
+</p>
