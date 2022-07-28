@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋, I'm SauloGP</h1>
 <h3 align="left">A backend developer from Brazil :brazil:</h3>
 
-- 🌱 I’m currently learning **Software Architeture**
-
-- 📫 How to reach me **sauloproetti@gmail.com**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saulogp&show_icons=true&locale=en" alt="saulogp" /></p>
   
 <h3 align="left">Languages and Tools:</h3>
